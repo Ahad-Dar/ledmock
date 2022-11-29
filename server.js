@@ -2,7 +2,6 @@ process.EventEmitter = require('events').EventEmitter;
 var zetta = require('zetta');
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 var PORT = process.env.PORT || 3000;
-var pidlock = require('pidlock');
 
 
 zetta()
