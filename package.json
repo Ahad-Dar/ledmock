@@ -5,6 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "zetta": "^1.5.1"
+    "pidlock": "^0.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
