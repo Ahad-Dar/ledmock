@@ -1,4 +1,4 @@
-//process.EventEmitter = require('events').EventEmitter;
+process.EventEmitter = require('events').EventEmitter;
 var zetta = require('zetta');
 
 var PORT = process.env.PORT || 3000;
