@@ -1,19 +1,14 @@
 {
-  "name": "proxy",
+  "name": "2-state-machine",
   "version": "0.0.0",
-  "description": "This is a basic sample of what your zetta cloud server could look like. Use the heroku button to easily deploy to that platform!",
-  "main": "server.js",
-  "dependencies": {
-    "zetta": "^1.5.1"
-    
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": "0.10.35"
+  "dependencies": {
+    "zetta": "^1.5.1"
   }
 }
