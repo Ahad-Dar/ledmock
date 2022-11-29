@@ -1,6 +1,6 @@
 {
   "name": "proxy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "This is a basic sample of what your zetta cloud server could look like. Use the heroku button to easily deploy to that platform!",
   "main": "server.js",
   "dependencies": {
